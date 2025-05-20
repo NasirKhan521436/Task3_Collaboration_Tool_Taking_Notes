@@ -120,9 +120,6 @@ Thanks to **CODTECH IT SOLUTIONS** for providing this internship opportunity and
 
 ---
 
-## Contact
 
-**Nasir Hussain Khan**
-GitHub: [https://github.com/NasirKhan521436](https://github.com/NasirKhan521436)
-Email: *(please add your email)*
+
 
